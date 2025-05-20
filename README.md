@@ -2,23 +2,23 @@
 
 ## 📜 Índice
 
-1. Descripción
+1. [Descripción](#descripción)
 
-2. Instalación
+2. [Instalación](#️instalación)
 
-3. Uso
+3. [Uso](#uso)
 
-4. Características
+4. [Características](#características)
 
-5. Contribuir
+5. [Contribuir](#contribuir)
 
-6. Licencia
+6. [Licencia](#licencia)
 
-## 📝 Descripción
+## 📝Descripción
 
 Este proyecto utiliza OpenCV y CVZone para detectar rostros y manos en tiempo real, permitiendo la interacción mediante gestos. Ideal para aplicaciones interactivas y control por movimiento.
 
-## ⚙️ Instalación
+## ⚙️Instalación
 
 🔹 Programas necesarios
 
@@ -30,7 +30,7 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ### 🖥 Clonar el repositorio
 
-git clone https://github.com/usuario/proyecto.git
+git clone git@github.com:itzelgps/hands_and_face_detector.git
 
 ### 📂 Acceder al directorio del proyecto
 
@@ -46,17 +46,17 @@ Ejecuta los siguientes comandos en la terminal para instalar las bibliotecas nec
 
 * pip install cvzone
 
-## 🚀 Uso
+## 🚀Uso
 
 Para ejecutar el proyecto en Visual Studio Code, abre la terminal y ejecuta:
 
-python HandandFaceDetector.py
+python handandfacedetector.py
 
 Si tienes múltiples versiones de Python, usa:
 
-python3 HandandFaceDetector.py
+python3 handandfacedetector.py
 
-## 🌟 Características
+## 🌟Características
 
 Lista de características principales del proyecto:
 
@@ -68,7 +68,7 @@ Lista de características principales del proyecto:
 
 ✅ Código optimizado para rendimiento en tiempo real
 
-## 🤝 Contribuir
+## 🤝Contribuir
 
 Si quieres mejorar el proyecto, sigue estos pasos:
 
@@ -84,8 +84,6 @@ git commit -m "Descripción del cambio"
 
 4. Envía un pull request para revisión.
 
-💡 Consejo: Usa nombres descriptivos en tus ramas y commits para mejorar la organización.
-
-## 📜 Licencia
+## 📜Licencia
 
 📌 Este proyecto está bajo la licencia MIT. Puedes utilizarlo, modificarlo y compartirlo libremente.
